@@ -19,8 +19,7 @@ Harmony introduces an innovative ecosystem to accelerate the adoption and genera
 ![Harmony workflow](./public/HarmonyFlow.jpg)
 
 
-# Deployed Contract Link (Lisk L2 Testnet)
-- https://sepolia-blockscout.lisk.com/address/0x8359ac5e03a89d4d7f9507DdcEF6810075b2F189
+
 
 
 # Arduino Setup
